@@ -1,0 +1,13 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "--",
+  "MLModelCreatorDefinedKey" : {
+    "Prediction Window Size" : "1",
+    "com.apple.createml.app.tag" : "121.1",
+    "com.apple.createml.app.version" : "5.0",
+    "Target Frame Rate" : "30.0",
+    "com.apple.coreml.model.preview.type" : "handPoseClassifier"
+  },
+  "MLModelAuthorKey" : "Rimah",
+  "MLModelLicenseKey" : "--"
+}
