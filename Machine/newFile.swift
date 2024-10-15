@@ -3,7 +3,6 @@
 //  Machine
 //
 //  Created by Rimah on 12/07/1445 AH.
-//
 
 import CoreML
 import SwiftUI
